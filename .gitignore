@@ -1,0 +1,14 @@
+# Source PDF: copyrighted PhD thesis (ProQuest/UMI microform edition).
+# Kept locally only; not for redistribution in this repository.
+rozenson_marita.pdf
+
+# Lean 4 build cache and artifacts (6+ GB of cloned packages)
+GroverSearchTraining/.lake/
+*.olean
+*.ilean
+*.trace
+
+# OS / tooling junk
+Thumbs.db
+.DS_Store
+__pycache__/
